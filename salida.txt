@@ -1,0 +1,2 @@
+Mensaje guardado usando Strategy
+Mensaje guardado usando Strategy
